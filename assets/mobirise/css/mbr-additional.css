@@ -10,7 +10,8 @@ img,
 .slide-content,
 .plan,
 .card,
-.item-wrapper {
+.item-wrapper,
+.item-wrapper .mbr-overlay {
   border-radius: 2rem !important;
 }
 .video-wrapper {
@@ -1352,7 +1353,7 @@ a {
 }
 .cid-uXq2Ia1D8K {
   display: flex;
-  background-image: url("../../../assets/images/fauzi2012-2000x1333.jpeg");
+  background-image: url("../../../assets/images/farrel2014-2000x1333.jpeg");
 }
 .cid-uXq2Ia1D8K .mbr-overlay {
   background-color: #000000;
